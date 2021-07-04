@@ -1,15 +1,15 @@
 # Spitch
 
-+ Quién eres.
-+ En qué industria te encuentras.
-+ Qué problema estás solucionando.
-+ Cuál es la solución que ofreces.
-+ Cuál es tu modelo de negocio.
-+ Cuál es tu nivel de tracción.
-+ Quiénes son tus competidores.
-+ Cuáles son tus ventajas competitivas.
-+ Cómo está conformado tu equipo.
-+ Cuál es tu visión.
-+ Por qué estás presentando el pitch.
-+ Para qué estás presentado el pitch.
-+ Call to Action. 
+1 Quién eres.
+1 En qué industria te encuentras.
+1 Qué problema estás solucionando.
+1 Cuál es la solución que ofreces.
+1 Cuál es tu modelo de negocio.
+1 Cuál es tu nivel de tracción.
+1 Quiénes son tus competidores.
+1 Cuáles son tus ventajas competitivas.
+1 Cómo está conformado tu equipo.
+1 Cuál es tu visión.
+1 Por qué estás presentando el pitch.
+1 Para qué estás presentado el pitch.
+1 Call to Action. 
